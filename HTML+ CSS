@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>home</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">      
+        <a href="#" class="logo"><i class="fas fa-lightbulb"></i>educa</a>
+
+        <nav class="navbar">
+            <a href="home.html">home</a>
+            <a href="about.html">home</a>
+            <a href="career&coursesdesign.html">home</a>
+            <a href="contact.html">home</a>
+
+        </nav>
+
+        <div class="icons">     
+            <div id="menu-btn" class="fas fa-bars"></div>
+            <div id="account-btn" class="fas fa-user"></div>
+            <div id="menu-btn" class="fas fa-bars"></div>
+
+
+
+
+        </div> 
+<script src="script.js"></script>
+</body>
+</html>
